@@ -6,8 +6,8 @@ export const App = () => {
   return (
     <div className="app">
       <Header />
-    <h1>Unit tests</h1>
-    <Router />
+      <>Unit Test Page</>
+      <Router />
     </div>
   );
 }
